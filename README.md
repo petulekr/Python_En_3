@@ -10,3 +10,4 @@ python elections_2017_scraper.py "<odkaz_uzemniho_celku>" "<vystupni_soubor>"
 
 ## Ukázka spuštění souboru
 python elections_2017_scraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "vysledky_prostejov.csv"
+Ukázka výsledků je dostupná v souboru vysledky_prostejov.csv
